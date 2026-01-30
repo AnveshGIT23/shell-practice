@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#Aurguments
 person1=$1
 person2=$2
 
