@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PERSON1=Annu
+PERSON1=annu
 PERSON2=sweety
 
 echo "$PERSON1:: Hi $PERSON2, How are you?"
