@@ -1,6 +1,6 @@
 #!/bin/bash
 
 echo "Please enter your pin number"
-read PIN_NUMBER #Here pin number is variable
+read -s PIN_NUMBER #Here pin number is variable
 
 echo "pin entered is :: $PIN_NUMBER"
