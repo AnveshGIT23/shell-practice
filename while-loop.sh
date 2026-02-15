@@ -20,4 +20,4 @@ while IFS= read -r line; do
     # if [[ "$line" == "specific_text" ]]; then
     #    echo "Found specific text!"
     # fi
-done < 17-loop.sh
+done < 17-loops.sh
